@@ -1,2 +1,3 @@
 Contenido inicial de feature-A
 Contenido alternativo de feature-B
+Contenido adicional de feature C
